@@ -3,4 +3,4 @@
 
 This Class Library is mainly used as support library for the [ShellLink](https://github.com/securifybv/ShellLink) Class Library.
 
-![.NET Core](https://github.com/ykoster/PropertyStore/workflows/.NET%20Core/badge.svg)
+![.NET Core](https://github.com/securifybv/PropertyStore/workflows/.NET%20Core/badge.svg)
