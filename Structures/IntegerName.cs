@@ -1,11 +1,11 @@
-﻿using PropertyStore.Flags;
+﻿using Securify.PropertyStore.Flags;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PropertyStore.Structures
+namespace Securify.PropertyStore.Structures
 {
     /// <summary>
     /// The Serialized Property Value (Integer Name) structure specifies a single property 

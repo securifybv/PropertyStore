@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PropertyStore.Structures
+namespace Securify.PropertyStore.Structures
 {
     /// <summary>
     /// The Serialized Property Storage structure is a sequence of Serialized Property Value structures. 

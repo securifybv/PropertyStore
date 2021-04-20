@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Text;
 using System.Linq;
-using PropertyStore.Flags;
+using Securify.PropertyStore.Flags;
 
-namespace PropertyStore.Structures
+namespace Securify.PropertyStore.Structures
 {
     /// <summary>
     /// The TypedPropertyValue structure represents the typed value of a property in a property set.
