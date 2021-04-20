@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
-using PropertyStore.Structures;
+using Securify.PropertyStore.Structures;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PropertyStore
+namespace Securify.PropertyStore
 {
     /// <summary>
     /// The Property Store Binary File Format is a sequence of Serialized Property 

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PropertyStore.Flags
+namespace Securify.PropertyStore.Flags
 {
     /// <summary>
     /// The PropertyType enumeration represents the type of a property in a property set. The set of types supported depends 

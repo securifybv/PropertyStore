@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PropertyStore.Structures
+namespace Securify.PropertyStore.Structures
 {
     /// <summary>
     /// 
