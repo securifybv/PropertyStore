@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace PropertyStore.Structures
+namespace Securify.PropertyStore.Structures
 {
     /// <summary>
     /// Abstract Structure class
